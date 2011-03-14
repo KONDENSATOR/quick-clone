@@ -1,0 +1,3 @@
+To setup: Edit you standard checkout path in the top of the script. Standard is "~/Repository/".
+
+To use: Mark the repository URL and then run the script with Alfred, Quicksilver or equivalent.
